@@ -1,4 +1,4 @@
-# key_sequence_guess_gmae
+# key sequence guess game
 A simple game that generates 3 sequence and allows user to guess it by inputs
 
 # Problem statement
